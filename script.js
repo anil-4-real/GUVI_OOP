@@ -1,4 +1,4 @@
-//Simple person class with 6 class properties
+//Simple person class with 7 class properties
 const Person = class {
 	constructor(title, name, age, gender, profession, location, dob) {
 		this.title = title;
